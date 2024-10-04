@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once debugged code in my sleep literally had a dream about it!
 
-- Here Link of my project  https://github.com/s-mahali/React_Project.git 
+- Here Link of my project  https://s-mahali.github.io/Weather-App_Js/
 
 <!---
 s-mahali/s-mahali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
